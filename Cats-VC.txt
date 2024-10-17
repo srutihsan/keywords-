@@ -13,3 +13,5 @@ Change Your Life!;https://api.catshouse.club/tasks/196/complete?answer=BOUNTY
 FREE Money From Rich People!;https://api.catshouse.club/tasks/195/complete?answer=BASKET
 Top Shocking Ways;https://api.catshouse.club/tasks/183/complete?answer=ASSET
 BLOCKCHAIN TIPS;https://api.catshouse.club/tasks/197/complete?answer=BRIDGES
+Earn Real Money Playing Games!;https://api.catshouse.club/tasks/202/complete?answer=BUBBLE
+Get Paid to Play;https://api.catshouse.club/tasks/205/complete?answer=BULL
