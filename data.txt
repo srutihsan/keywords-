@@ -1,3 +1,4 @@
+#22 Fat Finger Error;WRONGFINGER
 #21 How to spot a Rug Pull?;NOHANDSNORUG
 #20 What is Rug Pull?;antirugpull
 #19 What is Market Maker?;wavemaker
